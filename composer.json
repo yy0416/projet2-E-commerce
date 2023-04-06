@@ -1,0 +1,13 @@
+{
+    
+    "name": "manonlambert/projet2-e-commerce",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+            
+        }
+    },
+    "require": {}
+}
+
+
